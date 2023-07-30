@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+DeskLocker is a tool for various desktop environments that lets you quickly lock parts of the desktop, and unlock them when needed.
